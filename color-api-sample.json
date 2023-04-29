@@ -1,0 +1,450 @@
+{
+  "mode": "triad",
+  "count": "5",
+  "colors": [
+    {
+      "hex": { "value": "#82093E", "clean": "82093E" },
+      "rgb": {
+        "fraction": {
+          "r": 0.5098039215686274,
+          "g": 0.03529411764705882,
+          "b": 0.24313725490196078
+        },
+        "r": 130,
+        "g": 9,
+        "b": 62,
+        "value": "rgb(130, 9, 62)"
+      },
+      "hsl": {
+        "fraction": {
+          "h": 0.9269972451790635,
+          "s": 0.8705035971223022,
+          "l": 0.2725490196078431
+        },
+        "h": 334,
+        "s": 87,
+        "l": 27,
+        "value": "hsl(334, 87%, 27%)"
+      },
+      "hsv": {
+        "fraction": {
+          "h": 0.9269972451790635,
+          "s": 0.9307692307692308,
+          "v": 0.5098039215686274
+        },
+        "value": "hsv(334, 93%, 51%)",
+        "h": 334,
+        "s": 93,
+        "v": 51
+      },
+      "name": {
+        "value": "Rose Bud Cherry",
+        "closest_named_hex": "#800B47",
+        "exact_match_name": false,
+        "distance": 205
+      },
+      "cmyk": {
+        "fraction": {
+          "c": 0,
+          "m": 0.9307692307692308,
+          "y": 0.523076923076923,
+          "k": 0.4901960784313726
+        },
+        "value": "cmyk(0, 93, 52, 49)",
+        "c": 0,
+        "m": 93,
+        "y": 52,
+        "k": 49
+      },
+      "XYZ": {
+        "fraction": {
+          "X": 0.2667505882352941,
+          "Y": 0.15118117647058824,
+          "Z": 0.24514823529411764
+        },
+        "value": "XYZ(27, 15, 25)",
+        "X": 27,
+        "Y": 15,
+        "Z": 25
+      },
+      "image": {
+        "bare": "https://www.thecolorapi.com/id?format=svg&named=false&hex=82093E",
+        "named": "https://www.thecolorapi.com/id?format=svg&hex=82093E"
+      },
+      "contrast": { "value": "#ffffff" },
+      "_links": { "self": { "href": "/id?hex=82093E" } },
+      "_embedded": {}
+    },
+    {
+      "hex": { "value": "#3E9008", "clean": "3E9008" },
+      "rgb": {
+        "fraction": {
+          "r": 0.24313725490196078,
+          "g": 0.5647058823529412,
+          "b": 0.03137254901960784
+        },
+        "r": 62,
+        "g": 144,
+        "b": 8,
+        "value": "rgb(62, 144, 8)"
+      },
+      "hsl": {
+        "fraction": {
+          "h": 0.267156862745098,
+          "s": 0.8947368421052632,
+          "l": 0.2980392156862745
+        },
+        "h": 96,
+        "s": 89,
+        "l": 30,
+        "value": "hsl(96, 89%, 30%)"
+      },
+      "hsv": {
+        "fraction": {
+          "h": 0.267156862745098,
+          "s": 0.9444444444444444,
+          "v": 0.5647058823529412
+        },
+        "value": "hsv(96, 94%, 56%)",
+        "h": 96,
+        "s": 94,
+        "v": 56
+      },
+      "name": {
+        "value": "Limeade",
+        "closest_named_hex": "#6F9D02",
+        "exact_match_name": false,
+        "distance": 3762
+      },
+      "cmyk": {
+        "fraction": {
+          "c": 0.5694444444444444,
+          "m": 0,
+          "y": 0.9444444444444444,
+          "k": 0.43529411764705883
+        },
+        "value": "cmyk(57, 0, 94, 44)",
+        "c": 57,
+        "m": 0,
+        "y": 94,
+        "k": 44
+      },
+      "XYZ": {
+        "fraction": {
+          "X": 0.3078713725490196,
+          "Y": 0.4578337254901961,
+          "Z": 0.10182509803921569
+        },
+        "value": "XYZ(31, 46, 10)",
+        "X": 31,
+        "Y": 46,
+        "Z": 10
+      },
+      "image": {
+        "bare": "https://www.thecolorapi.com/id?format=svg&named=false&hex=3E9008",
+        "named": "https://www.thecolorapi.com/id?format=svg&hex=3E9008"
+      },
+      "contrast": { "value": "#000000" },
+      "_links": { "self": { "href": "/id?hex=3E9008" } },
+      "_embedded": {}
+    },
+    {
+      "hex": { "value": "#06459E", "clean": "06459E" },
+      "rgb": {
+        "fraction": {
+          "r": 0.023529411764705882,
+          "g": 0.27058823529411763,
+          "b": 0.6196078431372549
+        },
+        "r": 6,
+        "g": 69,
+        "b": 158,
+        "value": "rgb(6, 69, 158)"
+      },
+      "hsl": {
+        "fraction": {
+          "h": 0.5975877192982456,
+          "s": 0.9268292682926829,
+          "l": 0.3215686274509804
+        },
+        "h": 215,
+        "s": 93,
+        "l": 32,
+        "value": "hsl(215, 93%, 32%)"
+      },
+      "hsv": {
+        "fraction": {
+          "h": 0.5975877192982456,
+          "s": 0.9620253164556961,
+          "v": 0.6196078431372549
+        },
+        "value": "hsv(215, 96%, 62%)",
+        "h": 215,
+        "s": 96,
+        "v": 62
+      },
+      "name": {
+        "value": "Congress Blue",
+        "closest_named_hex": "#02478E",
+        "exact_match_name": false,
+        "distance": 736
+      },
+      "cmyk": {
+        "fraction": {
+          "c": 0.9620253164556961,
+          "m": 0.5632911392405064,
+          "y": 0,
+          "k": 0.3803921568627451
+        },
+        "value": "cmyk(96, 56, 0, 38)",
+        "c": 96,
+        "m": 56,
+        "y": 0,
+        "k": 38
+      },
+      "XYZ": {
+        "fraction": {
+          "X": 0.21830509803921566,
+          "Y": 0.24326274509803916,
+          "Z": 0.6216454901960784
+        },
+        "value": "XYZ(22, 24, 62)",
+        "X": 22,
+        "Y": 24,
+        "Z": 62
+      },
+      "image": {
+        "bare": "https://www.thecolorapi.com/id?format=svg&named=false&hex=06459E",
+        "named": "https://www.thecolorapi.com/id?format=svg&hex=06459E"
+      },
+      "contrast": { "value": "#ffffff" },
+      "_links": { "self": { "href": "/id?hex=06459E" } },
+      "_embedded": {}
+    },
+    {
+      "hex": { "value": "#044AAD", "clean": "044AAD" },
+      "rgb": {
+        "fraction": {
+          "r": 0.01568627450980392,
+          "g": 0.2901960784313726,
+          "b": 0.6784313725490196
+        },
+        "r": 4,
+        "g": 74,
+        "b": 173,
+        "value": "rgb(4, 74, 173)"
+      },
+      "hsl": {
+        "fraction": {
+          "h": 0.5976331360946746,
+          "s": 0.9548022598870058,
+          "l": 0.34705882352941175
+        },
+        "h": 215,
+        "s": 95,
+        "l": 35,
+        "value": "hsl(215, 95%, 35%)"
+      },
+      "hsv": {
+        "fraction": {
+          "h": 0.5976331360946746,
+          "s": 0.9768786127167631,
+          "v": 0.6784313725490196
+        },
+        "value": "hsv(215, 98%, 68%)",
+        "h": 215,
+        "s": 98,
+        "v": 68
+      },
+      "name": {
+        "value": "Cobalt",
+        "closest_named_hex": "#0047AB",
+        "exact_match_name": false,
+        "distance": 335
+      },
+      "cmyk": {
+        "fraction": {
+          "c": 0.9768786127167631,
+          "m": 0.5722543352601155,
+          "y": 0,
+          "k": 0.32156862745098036
+        },
+        "value": "cmyk(98, 57, 0, 32)",
+        "c": 98,
+        "m": 57,
+        "y": 0,
+        "k": 32
+      },
+      "XYZ": {
+        "fraction": {
+          "X": 0.23270000000000002,
+          "Y": 0.25986588235294117,
+          "Z": 0.679743137254902
+        },
+        "value": "XYZ(23, 26, 68)",
+        "X": 23,
+        "Y": 26,
+        "Z": 68
+      },
+      "image": {
+        "bare": "https://www.thecolorapi.com/id?format=svg&named=false&hex=044AAD",
+        "named": "https://www.thecolorapi.com/id?format=svg&hex=044AAD"
+      },
+      "contrast": { "value": "#ffffff" },
+      "_links": { "self": { "href": "/id?hex=044AAD" } },
+      "_embedded": {}
+    },
+    {
+      "hex": { "value": "#024FBC", "clean": "024FBC" },
+      "rgb": {
+        "fraction": {
+          "r": 0.00784313725490196,
+          "g": 0.30980392156862746,
+          "b": 0.7372549019607844
+        },
+        "r": 2,
+        "g": 79,
+        "b": 188,
+        "value": "rgb(2, 79, 188)"
+      },
+      "hsl": {
+        "fraction": {
+          "h": 0.5976702508960575,
+          "s": 0.9789473684210527,
+          "l": 0.37254901960784315
+        },
+        "h": 215,
+        "s": 98,
+        "l": 37,
+        "value": "hsl(215, 98%, 37%)"
+      },
+      "hsv": {
+        "fraction": {
+          "h": 0.5976702508960575,
+          "s": 0.9893617021276596,
+          "v": 0.7372549019607844
+        },
+        "value": "hsv(215, 99%, 74%)",
+        "h": 215,
+        "s": 99,
+        "v": 74
+      },
+      "name": {
+        "value": "Absolute Zero",
+        "closest_named_hex": "#0048BA",
+        "exact_match_name": false,
+        "distance": 139
+      },
+      "cmyk": {
+        "fraction": {
+          "c": 0.9893617021276596,
+          "m": 0.5797872340425532,
+          "y": 0,
+          "k": 0.26274509803921564
+        },
+        "value": "cmyk(99, 58, 0, 26)",
+        "c": 99,
+        "m": 58,
+        "y": 0,
+        "k": 26
+      },
+      "XYZ": {
+        "fraction": {
+          "X": 0.24709490196078432,
+          "Y": 0.27646901960784315,
+          "Z": 0.7378407843137256
+        },
+        "value": "XYZ(25, 28, 74)",
+        "X": 25,
+        "Y": 28,
+        "Z": 74
+      },
+      "image": {
+        "bare": "https://www.thecolorapi.com/id?format=svg&named=false&hex=024FBC",
+        "named": "https://www.thecolorapi.com/id?format=svg&hex=024FBC"
+      },
+      "contrast": { "value": "#ffffff" },
+      "_links": { "self": { "href": "/id?hex=024FBC" } },
+      "_embedded": {}
+    }
+  ],
+  "seed": {
+    "hex": { "value": "#0047AB", "clean": "0047AB" },
+    "rgb": {
+      "fraction": { "r": 0, "g": 0.2784313725490196, "b": 0.6705882352941176 },
+      "r": 0,
+      "g": 71,
+      "b": 171,
+      "value": "rgb(0, 71, 171)"
+    },
+    "hsl": {
+      "fraction": { "h": 0.5974658869395711, "s": 1, "l": 0.3352941176470588 },
+      "h": 215,
+      "s": 100,
+      "l": 34,
+      "value": "hsl(215, 100%, 34%)"
+    },
+    "hsv": {
+      "fraction": { "h": 0.5974658869395711, "s": 1, "v": 0.6705882352941176 },
+      "value": "hsv(215, 100%, 67%)",
+      "h": 215,
+      "s": 100,
+      "v": 67
+    },
+    "name": {
+      "value": "Cobalt",
+      "closest_named_hex": "#0047AB",
+      "exact_match_name": true,
+      "distance": 0
+    },
+    "cmyk": {
+      "fraction": {
+        "c": 1,
+        "m": 0.5847953216374269,
+        "y": 0,
+        "k": 0.3294117647058824
+      },
+      "value": "cmyk(100, 58, 0, 33)",
+      "c": 100,
+      "m": 58,
+      "y": 0,
+      "k": 33
+    },
+    "XYZ": {
+      "fraction": {
+        "X": 0.22060823529411763,
+        "Y": 0.2475505882352941,
+        "Z": 0.6705831372549019
+      },
+      "value": "XYZ(22, 25, 67)",
+      "X": 22,
+      "Y": 25,
+      "Z": 67
+    },
+    "image": {
+      "bare": "https://www.thecolorapi.com/id?format=svg&named=false&hex=0047AB",
+      "named": "https://www.thecolorapi.com/id?format=svg&hex=0047AB"
+    },
+    "contrast": { "value": "#ffffff" },
+    "_links": { "self": { "href": "/id?hex=0047AB" } },
+    "_embedded": {}
+  },
+  "image": {
+    "bare": "https://www.thecolorapi.com/scheme?format=svg&named=false&hex=0047AB&mode=triad&count=5",
+    "named": "https://www.thecolorapi.com/scheme?format=svg&hex=0047AB&mode=triad&count=5"
+  },
+  "_links": {
+    "self": "/scheme?hex=0047AB&mode=triad&count=5",
+    "schemes": {
+      "monochrome": "/scheme?hex=0047AB&mode=monochrome&count=5",
+      "monochrome-dark": "/scheme?hex=0047AB&mode=monochrome-dark&count=5",
+      "monochrome-light": "/scheme?hex=0047AB&mode=monochrome-light&count=5",
+      "analogic": "/scheme?hex=0047AB&mode=analogic&count=5",
+      "complement": "/scheme?hex=0047AB&mode=complement&count=5",
+      "analogic-complement": "/scheme?hex=0047AB&mode=analogic-complement&count=5",
+      "triad": "/scheme?hex=0047AB&mode=triad&count=5",
+      "quad": "/scheme?hex=0047AB&mode=quad&count=5"
+    }
+  },
+  "_embedded": {}
+}
